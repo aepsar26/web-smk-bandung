@@ -84,6 +84,10 @@ const IndexPage = () => (
       <h1>
         Selamat Datang di web <b>SMK Bandung</b>
       </h1>
+        <h2>Aep Syaripudin</h2> 
+        <h2>Agni Ahmad Saripudinn</h2>
+        <h2>Septian Adi Rahaja</h2>
+        <h2>Sirozudin Ibnu Farhan</h2>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
         {samplePageLinks.map((link, i) => (
